@@ -78,19 +78,6 @@ Detailed breakdown available in [`docs/metrics.md`](docs/metrics.md)
 
 ---
 
-## 🧰 Building the Dashboard
-
-Steps to build the Looker Studio report are available in [`docs/looker_studio_steps.md`](docs/looker_studio_steps.md).
-
-Key components:
-- Scorecards: Total Receivable, Payable, Net Outstanding
-- Bar Charts: Aging Buckets
-- Tables: Top Customers/Vendors
-- Time Series: Net Position Over Time
-- Filters: Type, Party, Aging Bucket
-
----
-
 ## 📅 Aging Buckets
 
 | Bucket          | Days Overdue | Code |
