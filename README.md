@@ -103,6 +103,12 @@ Detailed breakdown available in [`docs/metrics.md`](docs/metrics.md)
 
 ---
 
+## Credit
+
+I would like to acknowledge and sincerely thank **[Dhananjay1405](https://github.com/dhananjay1405)** for providing the open-source [tally-database-loader](https://github.com/dhananjay1405/tally-database-loader) project. This tool has been instrumental in loading and querying Tally data efficiently. The project and associated SQL report scripts have greatly helped in building and analyzing the Tally database.
+
+---
+
 ## 📬 Questions?
 
 Feel free to open an issue or contact the maintainer if you have questions or want to contribute!
