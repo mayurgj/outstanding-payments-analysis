@@ -40,6 +40,9 @@ The final report is available in Looker Studio and powered by a BigQuery SQL mod
 
 ![Outstanding Report Preview](assets/report_screenshot.png)
 
+> Note: Customer and vendor names in the report preview have been anonymized or hidden to maintain data confidentiality.
+
+
 ---
 
 ## 🔄 Data Pipeline
