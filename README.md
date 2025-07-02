@@ -15,7 +15,7 @@ This project visualizes outstanding receivables and payables using data from Tal
 │   └── metrics.md
 ├── assets/
 │   └── report_screenshot.png
-
+````
 
 ---
 
